@@ -31,7 +31,7 @@ The main goal of this project was to connect Python to a PostgreSQL database and
 
 To see the code used for data cleaning and SQL queries, please check out the following files:
 - [Data Cleaning Script](scripts/data_cleaning.py)
-- [SQL Queries](scripts/database_queries.sql)
+- [SQL Queries](https://github.com/LakshmiPriyaDiwakar2706/Retail-Orders-Data-Analysis/blob/main/reatil_orders_output.sql)
 
 ## References
 This project was inspired by Ankit Bansal's "End to End Data Analytics Project (Python + SQL)" available on [YouTube](https://www.youtube.com/).
