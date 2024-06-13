@@ -33,8 +33,11 @@ To see the code used for data cleaning and SQL queries, please check out the fol
 - [Data Cleaning Script](https://github.com/LakshmiPriyaDiwakar2706/Retail-Orders-Data-Analysis/blob/main/retailorders_datacleaning.ipynb)
 - [SQL Queries](https://github.com/LakshmiPriyaDiwakar2706/Retail-Orders-Data-Analysis/blob/main/reatil_orders_output.sql)
 
+Sales Report:
+Additionally, I have created a sales report presentation envisioning how I would present it to my technical lead. Please take a look at the report here:
+
 ## References
-This project was inspired by Ankit Bansal's "End to End Data Analytics Project (Python + SQL)" available on [YouTube](https://www.youtube.com/).
+This project was inspired by Ankit Bansal's "End to End Data Analytics Project (Python + SQL)" available on [YouTube](https://www.youtube.com/watch?v=uL0-6kfiH3g&t=276s) where I got the business questions from his videos and wrote SQL queries by myself.
 
 ---
 
